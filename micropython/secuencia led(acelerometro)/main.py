@@ -7,7 +7,6 @@ def x():
     x=int((int(accel())+21)/14)
     print(x)
     return x
-
 while 1:
     for h in led_i:
         h.off()
