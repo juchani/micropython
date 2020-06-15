@@ -1,7 +1,7 @@
 
 # MICROPYTHON
 ## Es una  forma sencilla de programar microcontroladores 
-![ESP32-Pinout.png](attachment:ESP32-Pinout.png)
+![ESP32-Pinout.png](https://github.com/juchani/micropython/blob/master/esp32/ESP32-Pinout.png)
 
 
 ```micropython
